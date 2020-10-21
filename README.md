@@ -1,4 +1,4 @@
-# Check if browser is Chrome
+# Check if browser is Chrome [![version](https://img.shields.io/github/release/hchiam/is-chrome?style=flat-square)](https://github.com/hchiam/is-chrome/releases)
 
 Shows a message if the browser is not Chrome.
 
